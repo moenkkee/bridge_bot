@@ -1,41 +1,43 @@
+# bridge_bot
+
 This program is to be considered legacy! Please use https://github.com/pret/pokeemerald
 =================================================================================================
 
 Support is not being offered at this time! Please make sure to use the latest beta and make sure you have the correct ROM dump.
 =================================================================================================
 
-![alt tag](https://raw.githubusercontent.com/Gamer2020/PokemonGameEditor/master/Screenshots/PGEBANNER.png)
+![alt tag](https://raw.githubusercontent.com/Gamer2020/bridge_bot/master/Screenshots/PGEBANNER.png)
 
 Pokemon Game Editor, commonly know as PGE, is an all in one tool started in 2010 by Gamer2020 for hacking the Game Boy Advanced Pokemon games. The program continues to evolve over the years and has had 60,000+ downloads. It has even inspired several copycat programs hence the slogan "Accept no Imitations!" was adopted. The program is currently developed in VB.Net with Visual Studio 2017.
 
 Screenshots
 =================
 
-![alt tag](https://raw.githubusercontent.com/Gamer2020/PokemonGameEditor/master/Screenshots/1.png)
+![alt tag](https://raw.githubusercontent.com/Gamer2020/bridge_bot/master/Screenshots/1.png)
 
-![alt tag](https://raw.githubusercontent.com/Gamer2020/PokemonGameEditor/master/Screenshots/2.png)
+![alt tag](https://raw.githubusercontent.com/Gamer2020/bridge_bot/master/Screenshots/2.png)
 
-![alt tag](https://raw.githubusercontent.com/Gamer2020/PokemonGameEditor/master/Screenshots/3.png)
+![alt tag](https://raw.githubusercontent.com/Gamer2020/bridge_bot/master/Screenshots/3.png)
 
-![alt tag](https://raw.githubusercontent.com/Gamer2020/PokemonGameEditor/master/Screenshots/4.png)
+![alt tag](https://raw.githubusercontent.com/Gamer2020/bridge_bot/master/Screenshots/4.png)
 
-![alt tag](https://raw.githubusercontent.com/Gamer2020/PokemonGameEditor/master/Screenshots/5.png)
+![alt tag](https://raw.githubusercontent.com/Gamer2020/bridge_bot/master/Screenshots/5.png)
 
-![alt tag](https://raw.githubusercontent.com/Gamer2020/PokemonGameEditor/master/Screenshots/6.png)
+![alt tag](https://raw.githubusercontent.com/Gamer2020/bridge_bot/master/Screenshots/6.png)
 
-![alt tag](https://raw.githubusercontent.com/Gamer2020/PokemonGameEditor/master/Screenshots/7.png)
+![alt tag](https://raw.githubusercontent.com/Gamer2020/bridge_bot/master/Screenshots/7.png)
 
-![alt tag](https://raw.githubusercontent.com/Gamer2020/PokemonGameEditor/master/Screenshots/8.png)
+![alt tag](https://raw.githubusercontent.com/Gamer2020/bridge_bot/master/Screenshots/8.png)
 
-![alt tag](https://raw.githubusercontent.com/Gamer2020/PokemonGameEditor/master/Screenshots/9.png)
+![alt tag](https://raw.githubusercontent.com/Gamer2020/bridge_bot/master/Screenshots/9.png)
 
-![alt tag](https://raw.githubusercontent.com/Gamer2020/PokemonGameEditor/master/Screenshots/10.png)
+![alt tag](https://raw.githubusercontent.com/Gamer2020/bridge_bot/master/Screenshots/10.png)
 
-![alt tag](https://raw.githubusercontent.com/Gamer2020/PokemonGameEditor/master/Screenshots/11.png)
+![alt tag](https://raw.githubusercontent.com/Gamer2020/bridge_bot/master/Screenshots/11.png)
 
-![alt tag](https://raw.githubusercontent.com/Gamer2020/PokemonGameEditor/master/Screenshots/12.png)
+![alt tag](https://raw.githubusercontent.com/Gamer2020/bridge_bot/master/Screenshots/12.png)
 
-![alt tag](https://raw.githubusercontent.com/Gamer2020/PokemonGameEditor/master/Screenshots/13.png)
+![alt tag](https://raw.githubusercontent.com/Gamer2020/bridge_bot/master/Screenshots/13.png)
 
 Features
 =================
@@ -198,18 +200,18 @@ EddyHg80
 
 Downloads
 ================================
-https://github.com/Gamer2020/PokemonGameEditor/releases
+https://github.com/Gamer2020/bridge_bot/releases
 
-Please be aware that if you download the program from any other place that it may not be safe and it could possibly contain malware. Downloads from https://github.com/Gamer2020/PokemonGameEditor/releases are official and safe.
+Please be aware that if you download the program from any other place that it may not be safe and it could possibly contain malware. Downloads from https://github.com/Gamer2020/bridge_bot/releases are official and safe.
 
 Beta builds
 ================================
 These are builds that are not recommended for regular use because they contain features that are still in development. These builds are sort of previews of what is currently being worked on.
 
-https://github.com/Gamer2020/PokemonGameEditor/tree/master/GBAPokemonGameEditor/bin/Debug
+https://github.com/Gamer2020/bridge_bot/tree/master/GBAbridge_bot/bin/Debug
 
 Please note that you may get a SmartScreen notification when running the beta builds. Please click on what is shown in the following screenshots.
 
-![alt tag](https://raw.githubusercontent.com/Gamer2020/PokemonGameEditor/master/Screenshots/SCF.png)
+![alt tag](https://raw.githubusercontent.com/Gamer2020/bridge_bot/master/Screenshots/SCF.png)
 
-![alt tag](https://raw.githubusercontent.com/Gamer2020/PokemonGameEditor/master/Screenshots/ra.png)
+![alt tag](https://raw.githubusercontent.com/Gamer2020/bridge_bot/master/Screenshots/ra.png)
